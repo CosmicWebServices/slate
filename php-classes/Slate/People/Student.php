@@ -7,7 +7,7 @@ use Emergence\People\Person;
 use Emergence\People\User;
 use Emergence\People\Groups\Group;
 use Emergence\People\GuardianRelationship;
-use ProgressNote, NarrativeReport, InterimReport, StandardsPromptGrade;
+use ProgressNote, TermReport, InterimReport, StandardsPromptGrade;
 use Slate\Courses\Section;
 use Slate\Courses\SectionParticipant;
 
